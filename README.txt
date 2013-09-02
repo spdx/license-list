@@ -1,0 +1,1 @@
+﻿This git repository contains the SPDX License List input data files.
