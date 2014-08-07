@@ -43,17 +43,17 @@ The provisions that follow set forth the terms and conditions under which you ma
 
 3.1 If the Program is distributed in object code form, then a prominent notice must be included in the code itself as well as in any related documentation, stating that the source code for the Program is available from the Contributor with information on how and where to obtain the source code. A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
 
- * it complies with the terms and conditions of this License; and
- * its license agreement:
-   * effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose, to the maximum extent permitted by applicable law;
-   * effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits, to the maximum extent permitted by applicable law;
-   * states that any provisions which are inconsistent with this License are offered by that Contributor alone and not by any other party; and
-   * states that source code for the Program is available from such Contributor at the cost of distribution, and informs licensees how to obtain it in a reasonable manner.
+     * it complies with the terms and conditions of this License; and
+     * its license agreement:
+          * effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose, to the maximum extent permitted by applicable law;
+          * effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits, to the maximum extent permitted by applicable law;
+          * states that any provisions which are inconsistent with this License are offered by that Contributor alone and not by any other party; and
+          * states that source code for the Program is available from such Contributor at the cost of distribution, and informs licensees how to obtain it in a reasonable manner.
    
 3.2 When the Program is made available in source code form:
 
- * it must be made available under this License; and
- * a copy of this License must be included with each copy of the Program.
+     * it must be made available under this License; and
+     * a copy of this License must be included with each copy of the Program.
  
 3.3 This License is intended to facilitate the commercial distribution of the Program by any Contributor. However, Contributors may only charge Recipients a one-time, upfront fee for the distribution of the Program. Contributors may not charge Recipients any recurring charge, license fee, or any ongoing royalty for the Recipients exercise of its rights under this License to the Program. Contributors shall make the source code for the Contributor Version they distribute available at a cost, if any, equal to the cost to the Contributor to physically copy and distribute the work. It is not the intent of this License to prohibit a Contributor from charging fees for any service or maintenance that a Contributor may charge to a Recipient, so long as such fees are not an attempt to circumvent the foregoing restrictions on charging royalties or other recurring fees for the Program itself.
 

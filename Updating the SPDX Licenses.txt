@@ -9,8 +9,8 @@ Steps to update the SPDX License List on the spdx.org website:
 	where spreadsheet.xls is the excel version of the SPDX license list downloaded in step 1 and outputDirectory is the path the the directory you 
 	created in step 2.  If [version] and/or [releasedate] are specified, they will override the values in the spreadsheet (not reccomended).
 4.	Review the console output for any errors - any slight variation in the spreadsheet columns will cause an error.
-5.	Review the output in the created subfolder "html" in the output directory created in steps 2 and 3
-6.	Create an archive file from the html folder named htmlfiles-vx.xx where x.xx is the version number of the license list.
+5.	Review the output in the created in the build output directory
+6.	Create an archive file from the build folder named htmlfiles-vx.xx where x.xx is the version number of the license list.
 7.	SFTP the archive file up to the Linux foundation server php1.linuxfoundation.org
 8.	Log into the Linux Foundation server
 9.	Create a new subdirectory in the ~/licenseArchive directory with the format mm-dd-yyyy where mm is the month, dd is the day, and yyyy 
