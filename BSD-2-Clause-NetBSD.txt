@@ -1,4 +1,4 @@
-<<beginOptional;name=copyrightSection>> Copyright (c) <<var;name=copyright;original=2008 The NetBSD Foundation, Inc.;match=.+>> All rights reserved. <<endOptional>
+<<beginOptional;name=copyrightSection>> Copyright (c) <<var;name=copyright;original=2008 The NetBSD Foundation, Inc.;match=.+>> All rights reserved. <<endOptional>>
 
 This code is derived from software contributed to The NetBSD Foundation by <<var;name=contributors;original=;match=.*>> 
 
