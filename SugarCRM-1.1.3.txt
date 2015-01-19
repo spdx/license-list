@@ -141,7 +141,7 @@ SugarCRM Public License 1.1.3 - Exhibit B
 Additional Terms applicable to the SugarCRM Public License.
 
 I. Effect.
-These additional terms described in this SugarCRM Public License Ð Additional Terms shall apply to the Covered Code under this License.
+These additional terms described in this SugarCRM Public License - Additional Terms shall apply to the Covered Code under this License.
 
 II. SugarCRM and logo.
 This License does not grant any rights to use the trademarks "SugarCRM" and the "SugarCRM" logos even if such marks are included in the Original Code or Modifications.
