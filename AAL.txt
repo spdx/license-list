@@ -1,6 +1,6 @@
 Attribution Assurance License 
 
-Copyright (c) <<var;name=copyright;original=2002 by AUTHOR PROFESSIONAL IDENTIFICATION * URL "PROMOTIONAL SLOGAN FOR AUTHOR'S PROFESSIONAL PRACTICE";match=.+;example=XXXX>>
+Copyright (c) <<var;name=copyright;original=2002 by AUTHOR PROFESSIONAL IDENTIFICATION * URL "PROMOTIONAL SLOGAN FOR AUTHOR'S PROFESSIONAL PRACTICE";match=.+>>
 
 All Rights Reserved 
 
