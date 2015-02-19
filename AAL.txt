@@ -6,7 +6,7 @@ All Rights Reserved
 
 ATTRIBUTION ASSURANCE LICENSE (adapted from the original BSD license)
 
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met. These conditions require a modest attribution to <<var;name=author;original=<AUTHOR>;match=.+;example=XXXXX>> (the "Author"), who hopes that its promotional value may help justify the thousands of dollars in otherwise billable time invested in writing this and other freely available, open-source software.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met. These conditions require a modest attribution to <<var;name=author;original=<AUTHOR>;match=.+>> (the "Author"), who hopes that its promotional value may help justify the thousands of dollars in otherwise billable time invested in writing this and other freely available, open-source software.
 
 1. Redistributions of source code, in whole or part and with or without modification (the "Code"), must prominently display this GPG-signed text in verifiable form. 
 

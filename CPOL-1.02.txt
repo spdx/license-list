@@ -11,7 +11,7 @@ The main points subject to the terms of the License are:
 - No claim of suitability, guarantee, or any warranty whatsoever is provided. The software is provided "as-is". 
 - The Article accompanying the Work may not be distributed or republished without the Author's consent 
 
-This License is entered between You, the individual or other entity reading or otherwise making use of the Work licensed pursuant to this License and the individual or other entity which offers the Work under the terms of this License ("Author").
+This License is entered between You, the individual or other entity reading or otherwise making use of the Work licensed pursuant to this License and the individual or other entity which offers the Work under the terms of this License (“Author”).
 
 License
 
