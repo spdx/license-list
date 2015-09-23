@@ -1,7 +1,5 @@
 The Clear BSD License
 
-This is a license template.
-
 Copyright (c) <<var;name=copyright;original=[xxxx]-[xxxx] [Owner Organization];match=.+>>
 All rights reserved.
 
