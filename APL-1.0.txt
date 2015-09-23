@@ -66,7 +66,9 @@ where such changes and/or additions originate from a Subsequent Contributor. A S
           (i) reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Initial Work; and
           (ii) reproduce, publicly display, publicly perform, distribute, and sublicense any derivative works (if any) prepared by Recipient;
 in Source Code and Executable form, either with other Modifications, on an unmodified basis, or as part of a Larger Work.
+
      (b) Subject to the terms of this License, each Subsequent Contributor hereby grants each Recipient a world-wide, royalty-free, non-exclusive copyright license to:
+
           (i) reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Subsequent Work of such Subsequent Contributor; and
           (ii) reproduce, publicly display, publicly perform, distribute, and sublicense any derivative works (if any) prepared by Recipient;
 in Source Code and Executable form, either with other Modifications, on an unmodified basis, or as part of a Larger Work.

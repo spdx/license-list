@@ -40,7 +40,7 @@ License Terms
 
      a. Use, reproduce, modify, display, perform, sublicense and distribute any Modifications created by such Contributor or portions thereof, in both Source Code or as an executable program, either on an unmodified basis or as part of Derivative Works.
      b. Under claims of patents now or hereafter owned or controlled by Contributor, to make, use, sell, offer for sale, have made, and/or otherwise dispose of Modifications or portions thereof, but solely to the extent that any such claim is necessary to enable you to make, use, sell, offer for sale, have made, and/or otherwise dispose of Modifications or portions thereof or Derivative Works thereof.
- 
+
 2. Grant of License to Modifications From Contributor. "Modifications" means any additions to or deletions from the substance or structure of (i) a file containing Licensed Product, or (ii) any new file that contains any part of Licensed Product. Hereinafter in this License, the term "Licensed Product" shall include all previous Modifications that you receive from any Contributor. By application of the provisions in Section 4(a) below, each person or entity who created or contributed to the creation of, and distributed, a Modification (a "Contributor") hereby grants you a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims, to do the following:
 
      1. Use, reproduce, modify, display, perform, sublicense and distribute any Modifications created by such Contributor or portions thereof, in both Source Code or as an executable program, either on an unmodified basis or as part of Derivative Works.
