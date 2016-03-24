@@ -19,6 +19,7 @@ Dans la présente licence, à moins que le contexte n'indique un sens différent
 
 3. Licence de droit d'auteur
 Sous réserve des termes de la licence, le concédant accorde au licencié une licence non exclusive et libre de redevances lui permettant d’exercer les droits suivants sur le logiciel :
+
      1 Produire ou reproduire la totalité ou une partie importante;
      2 Exécuter ou représenter la totalité ou une partie importante en public;
      3 Publier la totalité ou une partie importante.
