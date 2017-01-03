@@ -1,5 +1,5 @@
 OSET Public License 
-© 2015 ALL RIGHTS RESERVED VERSION 2.1
+(c) 2015 ALL RIGHTS RESERVED VERSION 2.1
 
 THIS LICENSE DEFINES THE RIGHTS OF USE, REPRODUCTION, DISTRIBUTION, MODIFICATION, AND REDISTRIBUTION OF CERTAIN COVERED SOFTWARE (AS DEFINED BELOW) ORIGINALLY RELEASED BY THE OPEN SOURCE ELECTION TECHNOLOGY FOUNDATION (FORMERLY “THE OSDV FOUNDATION”).  ANYONE WHO USES, REPRODUCES, DISTRIBUTES, MODIFIES, OR REDISTRIBUTES THE COVERED SOFTWARE, OR ANY PART THEREOF, IS BY THAT ACTION, ACCEPTING IN FULL THE TERMS CONTAINED IN THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH TERMS, YOU ARE NOT PERMITTED TO USE THE COVERED SOFTWARE.
 
@@ -56,7 +56,8 @@ The text of the license begins here:
           3.5.1 You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Software. However, You may do so only on Your own behalf, and not on behalf of any Contributor. You must make it absolutely clear that any such warranty, support, indemnity, or liability obligation is offered by You alone, and You hereby agree to indemnify every Contributor for any liability incurred by such Contributor as a result of warranty, support, indemnity or liability terms You offer. You may include additional disclaimers of warranty and limitations of liability specific to any jurisdiction.
           3.5.2 You may place additional conditions upon the rights granted in this License to the extent necessary due to statute, judicial order, regulation (including without limitation state and federal procurement regulation), national security, or public interest. Any such additional conditions must be clearly described in the notice provisions required under Section 3.4.  Any alteration of the terms of this License will apply to all copies of the Covered Software distributed by You or by any downstream recipients that receive the Covered Software from You.
 
-4. Inability to Comply Due to Statute or Regulation If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Software due to statute, judicial order, or regulation, then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be included in the notices required under Section 3.4. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
+4. Inability to Comply Due to Statute or Regulation 
+If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Software due to statute, judicial order, or regulation, then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be included in the notices required under Section 3.4. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
 
 5. Termination
 
@@ -70,11 +71,14 @@ The text of the license begins here:
 
      5.5 End User License Agreements      In the event of termination under this Section 5, all end user license agreements (excluding distributors and resellers), which have been validly granted by You or Your distributors under this License prior to termination shall survive termination.
 
-6. Disclaimer of Warranty Covered Software is provided under this License on an “as is” basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-infringing. The entire risk as to the quality and performance of the Covered Software is with You.  Should any Covered Software prove defective in any respect, You (not any Contributor) assume the cost of any necessary servicing, repair, or correction. This disclaimer of warranty constitutes an essential part of this License.  No use of any Covered Software is authorized under this License except under this disclaimer.
+6. Disclaimer of Warranty 
+Covered Software is provided under this License on an “as is” basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-infringing. The entire risk as to the quality and performance of the Covered Software is with You.  Should any Covered Software prove defective in any respect, You (not any Contributor) assume the cost of any necessary servicing, repair, or correction. This disclaimer of warranty constitutes an essential part of this License.  No use of any Covered Software is authorized under this License except under this disclaimer.
 
-7. Limitation of Liability Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall any Contributor, or anyone who distributes Covered Software as permitted above, be liable to You for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. This limitation of liability shall not apply to liability for death or personal injury resulting from such party’s negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
+7. Limitation of Liability 
+Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall any Contributor, or anyone who distributes Covered Software as permitted above, be liable to You for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. This limitation of liability shall not apply to liability for death or personal injury resulting from such party’s negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
 
-8. Litigation Any litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by laws of that jurisdiction, without reference to its conflict-of-law provisions. Nothing in this Section shall prevent a party’s ability to bring cross-claims or counter-claims.
+8. Litigation 
+Any litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by laws of that jurisdiction, without reference to its conflict-of-law provisions. Nothing in this Section shall prevent a party’s ability to bring cross-claims or counter-claims.
 
 9. Government Terms
 
@@ -90,7 +94,8 @@ The text of the license begins here:
 
      9.4 Supremacy      This Section 9 is in lieu of, and supersedes, any other Federal Acquisition Regulation, Defense Federal Acquisition Regulation, or other clause or provision that addresses government rights in computer software under this License.
 
-10. Miscellaneous This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation, which provides that the language of a contract shall be construed against the drafter, shall not be used to construe this License against a Contributor.
+10. Miscellaneous 
+This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation, which provides that the language of a contract shall be construed against the drafter, shall not be used to construe this License against a Contributor.
 
 11. Versions of the License
 
@@ -101,7 +106,7 @@ The text of the license begins here:
      11.3 Modified Versions If You create software not governed by this License, and You want to create a new license for such software, You may create and use a modified version of this License if You rename the license and remove any references to the name of the license steward (except to note that such modified license differs from this License).
 
      11.4 Distributing Source Code Form That is Incompatible With Secondary Licenses If You choose to distribute Source Code Form that is Incompatible With Secondary Licenses under the terms of this version of the License, the notice described in Exhibit B of this License must be attached.
-
+
 EXHIBIT A – Source Code Form License Notice
 
 This Source Code Form is subject to the terms of the OSET Public License, v.2.1 (“OSET-PL-2.1”).  If a copy of the OPL was not distributed with this file, You can obtain one at: www.OSETFoundation.org/public-license.
