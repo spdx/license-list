@@ -2,7 +2,7 @@ This git repository contains the SPDX License List data used internally by the S
 
 Since the internal formats are subjct to change, it is strongly recommended to use the license list data available at http://spdx.org/licenses or in the license-list-data git repo (https://github.com/spdx/license-list-data) rather than using the internal formats of the license list.  The license list data is available in HTML, JSON and RDFa formats (see https://github.com/spdx/license-list-data and https://spdx.org/publications/tool-documentation/accessing-spdx-licenses for more details).
  
-NOTE: The legal team is planning to replace this repository by a set of XML representations of the licenses.
+NOTE: The legal team is planning to replace this repository by a set of XML representations of the licenses.  The XML representation, which is not stable or athoritative, is being developed at https://github.com/spdx/license-list-XML.
  
 
 There are two types of files maintained for each release of the license list:
